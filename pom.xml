@@ -12,7 +12,7 @@
 	<artifactId>todoapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Todo Application</name>
-	<description>A simple application for managing todo lists, made using java - springboot.</description>
+	<description>A simple application for managing todo lists, made with love using java - springboot.</description>
 	<url/>
 	<licenses>
 		<license/>
